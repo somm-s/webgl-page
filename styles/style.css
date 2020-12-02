@@ -1,0 +1,15 @@
+h1 {
+    opacity: 0.4;
+    border: 100;
+    background-color: rgb(219, 157, 157);
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    z-index: -1;
+}
